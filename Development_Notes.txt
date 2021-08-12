@@ -1,0 +1,12 @@
+1. Customizable time frame
+2. Sticker input
+3. Risk tolerance input
+4. Total $ available
+5. Time frame to gain certain $ back
+6. Confidence %
+7. Screening Tool Selection
+
+For later:
+Mobile app
+Subscription model
+Encryption
